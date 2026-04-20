@@ -4,4 +4,4 @@ metadata:
   name: sync-window-test
   namespace: argocd-dummies
 data:
-  version: "2"
+  version: "3"
